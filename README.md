@@ -1,8 +1,8 @@
 # Loan-Approval-Prediction
 
 # Project Description
-A housing financing company deals i all home loans have presence in all urban, semi-urban and rural areas. Customer first apply for home loan, after that company validates the customer based on eligibility for loan. Company wantes to automate the loan approval process based on customer details provided while filling the application. 
-There are different demographic details as such - Gender, Marital status, education, number of dependencies, Income, Loan amount, credit history, etc.. To automate the process they have asked to identify the customer segments, those are eligible for loan amount so that they can specifically target these customers.
+The housing financing company deals i all home loans have presence in all urban, semi-urban and rural areas. Customer first apply for home loan, and after that the company validates the customer based on eligibility for the loan. Company wantes to automate the loan approval process based on the customer details provided while filling in the application. 
+There are different demographic details as such - Gender, Marital status, education, number of dependencies, Income, Loan amount, credit history, etc.. To automate the process they have been asked to identify the customer segments, those are eligible for the loan amount so that they can specifically target these customers.
 
 # Pre-requisites
 Python, Pandas, seaborn, sklearn
