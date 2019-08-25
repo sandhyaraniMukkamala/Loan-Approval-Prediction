@@ -8,13 +8,13 @@ There are different demographic details as such - Gender, Marital status, educat
 Python, Pandas, seaborn, sklearn
 
 # Hypothesis Generation
-Below are some of the factors that I think can effect the loan approval
-Income - Apllicants with higher income have higher chances of loan approval.
-Previous history - Applicants who have repayed their previous debts should have higher chances.
-Loan Amount - If the amount is less, there is higher chance of approval.
-Loan term - Loan for less time period and less amount should have higher chances of approval
-Credit History - Applicants with god credit history will have great chances of approval
-EMI - Lesser amount to be paid each month will have higher chances.
+Below are some of the factors that I think could affect the loan approval 
+Income - Apllicants with higher income have higher chances of loan approval. 
+Previous history - Applicants who have repayed their previous debts should have higher chances. 
+Loan Amount - If the amount is less, there is a higher chance of approval. 
+Loan term - Loan for less time periods and less amounts should have higher chances of approval 
+Credit History - Applicants with god credit history will have great chances of approval 
+EMI - Lesser amounts to be paid each month will have higher chances.
 
 # Code
 Each statement in the code has its comments metioned to understand better of the process
