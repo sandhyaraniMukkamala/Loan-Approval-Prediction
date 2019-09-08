@@ -19,7 +19,7 @@ EMI - Lesser amounts to be paid each month will have higher chances.
 # Code
 Each statement in the code has its comments metioned to understand better of the process
 
-# execution
+# Execution
 First important thing is to understand the data. We will start with understanding the data and try to segregate it by our needs and work through the problem.
 
 # Result
